@@ -1,9 +1,8 @@
 {
-  "name": "manage-silverstore",
+  "name": "managesilverstore",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/managesilverstore/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
