@@ -41,7 +41,7 @@ export default function AdminLayout() {
                 transition: "all 0.2s",
             }}
             >
-            {collapsed ? "TB" : "Tiệm Bạc Hiền"}
+            {collapsed ? "TB" : "Test"}
             </div>
 
             <Menu
