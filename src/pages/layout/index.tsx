@@ -1,10 +1,10 @@
 import { Layout, Menu, Button } from "antd";
 import {
-  MenuFoldOutlined,
-  MenuUnfoldOutlined,
-  DashboardOutlined,
-  ShoppingCartOutlined,
-  BarChartOutlined,
+    MenuFoldOutlined,
+    MenuUnfoldOutlined,
+    DashboardOutlined,
+    ShoppingCartOutlined,
+    BarChartOutlined,
 } from "@ant-design/icons";
 import { Outlet } from "react-router-dom";
 import { useState } from "react";
